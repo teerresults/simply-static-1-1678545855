@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Career &#8211; Youshouldlisten.com</title>
+	<atom:link href="/category/career/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Comparison and Difference Between Stuff.</description>
+	<lastBuildDate>Mon, 11 Apr 2022 09:41:52 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/03/0cb3d729bef5369dc1f2d7fab300062c.ico</url>
+	<title>Career &#8211; Youshouldlisten.com</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">174576633</site>	<item>
+		<title>ધોરણ 10 પછી શું ? &#8211; કારકિર્દી માર્ગદર્શન બુક &#8211; વાલી અને વિદ્યાર્થી બંને માટે</title>
+		<link>/career/career-option-after-10th-gujarat-a-to-z-guidance/</link>
+					<comments>/career/career-option-after-10th-gujarat-a-to-z-guidance/#respond</comments>
+		
+		<dc:creator><![CDATA[drathod]]></dc:creator>
+		<pubDate>Mon, 11 Apr 2022 09:31:49 +0000</pubDate>
+				<category><![CDATA[Career]]></category>
+		<guid isPermaLink="false">/?p=1403</guid>
+
+					<description><![CDATA[Career Option &#38; Opportunities After 10th for the students of Gujarat What to do after standard 10? There are many options ... <p class="read-more-container"><a title="ધોરણ 10 પછી શું ? &#8211; કારકિર્દી માર્ગદર્શન બુક &#8211; વાલી અને વિદ્યાર્થી બંને માટે" class="read-more button" href="/career/career-option-after-10th-gujarat-a-to-z-guidance/#more-1403">Read more<span class="screen-reader-text">ધોરણ 10 પછી શું ? &#8211; કારકિર્દી માર્ગદર્શન બુક &#8211; વાલી અને વિદ્યાર્થી બંને માટે</span></a></p>]]></description>
+		
+					<wfw:commentRss>/career/career-option-after-10th-gujarat-a-to-z-guidance/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1403</post-id>	</item>
+	</channel>
+</rss>

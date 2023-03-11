@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Halloween 2022 Profile Frame Filter overlay For DP	</title>
+	<atom:link href="/home/halloween-profile-frame-filter-overlay-for-facebook-dp/feed/" rel="self" type="application/rss+xml" />
+	<link>/home/halloween-profile-frame-filter-overlay-for-facebook-dp/</link>
+	<description>Comparison and Difference Between Stuff.</description>
+	<lastBuildDate>Mon, 12 Dec 2022 14:46:04 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+</channel>
+</rss>

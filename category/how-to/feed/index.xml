@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>How To &#8211; Youshouldlisten.com</title>
+	<atom:link href="/category/how-to/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Comparison and Difference Between Stuff.</description>
+	<lastBuildDate>Tue, 09 Feb 2021 21:53:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/03/0cb3d729bef5369dc1f2d7fab300062c.ico</url>
+	<title>How To &#8211; Youshouldlisten.com</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">174576633</site>	<item>
+		<title>Get Free Unlimited Clubhouse App Invite OR No Invite Needed !</title>
+		<link>/how-to/get-free-clubhouse-app-invite-no-invite-needed/</link>
+					<comments>/how-to/get-free-clubhouse-app-invite-no-invite-needed/#respond</comments>
+		
+		<dc:creator><![CDATA[drathod]]></dc:creator>
+		<pubDate>Tue, 09 Feb 2021 21:47:09 +0000</pubDate>
+				<category><![CDATA[How To]]></category>
+		<guid isPermaLink="false">/?p=797</guid>
+
+					<description><![CDATA[So If you are active on twitter then you must have found that there&#8217;s a new trending app called clubhouse ... <p class="read-more-container"><a title="Get Free Unlimited Clubhouse App Invite OR No Invite Needed !" class="read-more button" href="/how-to/get-free-clubhouse-app-invite-no-invite-needed/#more-797">Read more<span class="screen-reader-text">Get Free Unlimited Clubhouse App Invite OR No Invite Needed !</span></a></p>]]></description>
+		
+					<wfw:commentRss>/how-to/get-free-clubhouse-app-invite-no-invite-needed/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">797</post-id>	</item>
+		<item>
+		<title>Download Microsoft Edge Inspirational Images : New Tab Background Wallpapers</title>
+		<link>/spotlight/microsoft-edge-inspirational-images-wallpapers/</link>
+					<comments>/spotlight/microsoft-edge-inspirational-images-wallpapers/#respond</comments>
+		
+		<dc:creator><![CDATA[drathod]]></dc:creator>
+		<pubDate>Thu, 03 Dec 2020 18:20:42 +0000</pubDate>
+				<category><![CDATA[How To]]></category>
+		<category><![CDATA[Spotlight]]></category>
+		<guid isPermaLink="false">/?p=570</guid>
+
+					<description><![CDATA[Lots of people were asking me about how to download the background images from microsoft edge browser&#8217;s inspirational views. I ... <p class="read-more-container"><a title="Download Microsoft Edge Inspirational Images : New Tab Background Wallpapers" class="read-more button" href="/spotlight/microsoft-edge-inspirational-images-wallpapers/#more-570">Read more<span class="screen-reader-text">Download Microsoft Edge Inspirational Images : New Tab Background Wallpapers</span></a></p>]]></description>
+		
+					<wfw:commentRss>/spotlight/microsoft-edge-inspirational-images-wallpapers/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">570</post-id>	</item>
+	</channel>
+</rss>
